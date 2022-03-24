@@ -3,7 +3,7 @@
 
 A Common Lisp binding to Pulse Audio.
 
-See [https://github.com/jl2/cl-pa/blob/master/project.org](project.org) for more information.
+See [project.org](https://github.com/jl2/cl-pa/blob/master/project.org) for more information.g
 
 ## License
 
